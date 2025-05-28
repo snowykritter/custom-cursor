@@ -1,8 +1,8 @@
 # custom-cursor
 A repository for my custom cursor designs.  
 
-Static cursors come in `.cur` and `.png` filetypes
-Animated cursors come in `.ani` filetype
+Static cursors come in `.cur` and `.png` format.  
+Animated cursors come in `.ani` format.
 
 ## Cursor sets
 + Turquoise Green-cheeked conure
